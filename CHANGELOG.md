@@ -1,5 +1,11 @@
 # @primer/css
 
+## 19.3.1
+
+### Patch Changes
+
+- [#1928](https://github.com/primer/css/pull/1928) [`0fb67895`](https://github.com/primer/css/commit/0fb6789555652860cfa5178b60433eb2c3d2575c) Thanks [@simurai](https://github.com/simurai)! - Fix `<sup><a>` from getting wrapped with `[ ]`
+
 ## 19.3.0
 
 ### Minor Changes
