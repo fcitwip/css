@@ -13,6 +13,7 @@
   <a aria-label="build status" href="https://github.com/primer/css/actions/workflows/ci.yml">
     <img alt="" src="https://github.com/primer/css/actions/workflows/ci.yml/badge.svg">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffcitwip%2Fcss?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcitwip%2Fcss.svg?type=shield"/></a>
   <a aria-label="contributors graph" href="https://github.com/primer/css/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/primer/css.svg">
   </a>
@@ -23,6 +24,9 @@
     <img src="https://img.shields.io/github/license/primer/css.svg" alt="">
   </a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcitwip%2Fcss.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcitwip%2Fcss?ref=badge_large)
 
 ## Documentation
 
